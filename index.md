@@ -6,8 +6,6 @@
 
 ## Table of Contents
 
-- [Biography](#biography)
-- [Research Interests](#research-interests)
 - [Education](#education)
 - [Awards, Fellowships, and Grants](#awards-fellowships-and-grants)
 - [Professional Experience](#professional-experience)
@@ -24,19 +22,6 @@
 - [Software Experience](#software-experience)
 - [Technical Experience](#technical-experience)
 
-## Biography
-
-I am an interdisciplinary artist, educator, curator, designer, and researcher working across photography, digital media, video, sound, performance, installation, and emerging technologies. Born in Udaipur, India, my experiences of migration and cultural displacement inform my investigations of identity, memory, embodiment, belonging, and representation.
-
-My creative practice examines how bodies, objects, images, rituals, and technologies carry personal and collective histories. Informed by Indian culture and Jain philosophy, I explore gender roles, body politics, religion, surveillance, environmental justice, and the complexities of diasporic identity. I am particularly interested in the body as an archive and in the tension between institutional records of identity and lived experience.
-
-I am an Assistant Professor in the School of Digital Media Production at Daytona State College. I am also pursuing a Ph.D. in Texts and Technology, specializing in Digital Media, at the University of Central Florida. My doctoral research considers how visual culture, artificial intelligence, and emerging technologies influence identity, authorship, memory, embodiment, and cultural representation. Through practice-based research, I bring photography, performance, sound, installation, and immersive technologies into conversation with scholarly inquiry.
-
-My curatorial work focuses on identity, immigration, gender politics, environmental concerns, and equitable representation. I have served as an Art and Culture Commissioner for the City of Hamtramck and as a curator for the Detroit Artist Market. I have also worked with Mighty Real/Queer Detroit and previously served as a Curatorial Assistant in the Contemporary Art Department at the Detroit Institute of Arts.
-
-## Research Interests
-
-Identity and representation; memory and displacement; diasporic experience; embodiment and the body as archive; photography and visual culture; sound and performance; artificial intelligence; immersive and interactive media; authorship and originality; surveillance; environmental justice; Jain philosophy; ritual; participatory archives; and technology ethics.
 
 ## Education
 

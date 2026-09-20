@@ -2,7 +2,7 @@
 
 **Artist | Educator | Curator | Designer | Researcher**
 
-[Artist Website](https://www.jetshri.com) | [Professional Portfolio](https://tinyurl.com/pb2sntd9) | [Student Portfolio](https://tinyurl.com/ykr7u8cz)
+[Artist Website](https://www.jetshri.com) 
 
 ## Table of Contents
 

@@ -1,6 +1,3 @@
-Copy this code into your `README.md` file:
-
-```markdown
 # Jetshri Bhadviya — Introduction to Texts and Technology
 
 ## Introduction

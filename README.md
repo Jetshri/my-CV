@@ -1,4 +1,4 @@
-# Jetshri Bhadviya — Introduction to Texts and Technology
+# Jetshri Bhadviya
 
 ## Introduction
 
